@@ -4,4 +4,4 @@ This is my first repo
 
 ## What is AI
 
-# Start
+ * Start
